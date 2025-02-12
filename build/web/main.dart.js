@@ -98222,7 +98222,7 @@ s=p.f
 r=p.x
 r===$&&A.a()
 q=t.p
-s=A.bq(A.b([n,A.a4Q(A.a7("1\u0634\u0627\u0641\u064a",o,o,o,o,o,A.bu(o,o,B.h,o,o,o,o,o,o,o,o,r.b.aI(0,r.a),o,o,B.bX,o,o,!0,o,o,o,o,o,o,o,o),o,o,o),B.y,B.cD,s)],q),B.m,B.r,B.n)
+s=A.bq(A.b([n,A.a4Q(A.a7("SHAFI",o,o,o,o,o,A.bu(o,o,B.h,o,o,o,o,o,o,o,o,r.b.aI(0,r.a),o,o,B.bX,o,o,!0,o,o,o,o,o,o,o,o),o,o,o),B.y,B.cD,s)],q),B.m,B.r,B.n)
 r=p.r
 n=m/p.e
 return A.lk(B.fp,A.dv(B.ap,A.b([s,A.cz(A.a4Q(A.zU(B.L,A.V(o,o,B.e,o,o,B.k1,o,l*0.4,o,o,o,o,o,m*0.8),o,B.ee,B.k1,B.cE,o,n,o,o,n),B.ee,B.cE,r),o,o)],q),B.x,B.af,o),o,o,o,o)}}
